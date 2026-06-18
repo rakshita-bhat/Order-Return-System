@@ -1,0 +1,36 @@
+# Java
+*.class
+*.jar
+*.war
+target/
+.idea/
+*.iml
+*.ipr
+*.iws
+.settings/
+.project
+.classpath
+bin/
+out/
+
+# Maven
+.log/
+dependency-reduced-pom.xml
+
+# Node
+node_modules/
+dist/
+build/
+.vite/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
